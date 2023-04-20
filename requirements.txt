@@ -1,0 +1,6 @@
+gradio
+pandas
+matplotlib
+yfinance
+openai
+pandas_datareader
